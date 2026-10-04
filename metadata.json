@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge",
+  "description": "AI-powered career opportunity platform prototype designed to help college students and fresh graduates discover career opportunities matching their skills, projects, and goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
